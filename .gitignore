@@ -1,0 +1,6 @@
+/.gradle/
+/build/
+/allure-results/
+/extentReportV5/
+/reportHTML/
+/reportNGScreenShots/
